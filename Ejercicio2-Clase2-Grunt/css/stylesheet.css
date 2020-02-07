@@ -1,0 +1,36 @@
+body{
+    background-color: lightsalmon;
+}
+
+h1{
+    padding-bottom: 1cm;
+}
+
+#vinculo-cssBattle{
+    text-decoration: none;
+}
+
+nav{
+    background: salmon;
+    padding: 10px;
+}
+
+.menu-nav{
+    display: inline-block;
+    background:orangered;
+    color: white;
+    padding: 10px 30px 10px 10px;
+    text-decoration: none;
+}
+
+.menu-nav:hover{
+    background: red;
+}
+
+footer{
+    padding-top: 1cm;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,11 @@
+#caja{
+    background-color: blue !important;
+    width: 200px;
+    height: 200px;
+}
+
+#caja{
+    background-color: brown;
+    width: 100px;
+    margin: auto;
+}
