@@ -8,8 +8,8 @@ module.exports = function(grunt) {
         banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
       },
       build: {
-        src: 'css/stylesheet.css',
-        dest: 'css/stylesheet.min.css'
+        src: 'js/script.js',
+        dest: 'js/script.min.js'
       }
     }
   });
